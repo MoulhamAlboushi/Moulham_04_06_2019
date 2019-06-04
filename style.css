@@ -77,6 +77,14 @@ section div img {
 
 .activities {
   width: 400px;
+  height: 500px;
+  border: 2px solid black;
   padding: 5px;
   margin: 0px;
+}
+/*
+#belevenis {
+  background-image: url(/img/ajax.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
 }
