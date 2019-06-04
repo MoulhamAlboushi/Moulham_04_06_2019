@@ -51,21 +51,15 @@ h1 {
   color: #ffffff;
 }
 #h2_activities {
-  width: 960px;
-  padding: 10px;
-  margin: 5px;
+  width: 100%;
+  padding: auto;
+  margin: auto;
+  margin-right: 3px;
   color: white;
   background-color: darkslategrey;
 }
-/*
-section div img {
-  width: 400px;
-  padding: 0px;
-  margin: 0px;
-}
-*/
 #city_canal_cruise {
-  mirgin: 5px 0px 5px 5px;
+  mirgin: 5px;
   float: right;
 }
 #van_gogh {
