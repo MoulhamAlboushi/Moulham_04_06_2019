@@ -1,9 +1,6 @@
 /*header style*/
 header {
   background-image: url("img/amsterdam.jpg");
-
-  background-color: aqua;
-
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -53,6 +50,11 @@ h1 {
   margin-bottom: 0px;
   color: #ffffff;
 }
+#h2_activities {
+  width: 960px;
+  padding: 5px;
+  margin: auto;
+}
 section div img {
   width: 400px;
   padding: 0px;
@@ -67,7 +69,7 @@ section div img {
   float: left;
 }
 #van_gogh {
-  float: inline-start;
+  float: right;
 }
 
 .activities {
