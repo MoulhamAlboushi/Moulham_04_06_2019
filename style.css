@@ -74,4 +74,6 @@ section div img {
 
 .activities {
   width: 400px;
+  padding: 5px;
+  margin: 5px;
 }
