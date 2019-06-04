@@ -66,6 +66,7 @@ section div img {
 */
 #city_canal_cruise {
   mirgin: 5px 0px 5px 5px;
+  float: right;
 }
 #van_gogh {
   float: right;
