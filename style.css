@@ -1,9 +1,9 @@
 /*header style*/
 header {
   background-image: url("img/amsterdam.jpg");
-  /*
+
   background-color: aqua;
-*/
+
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 100%;
@@ -53,13 +53,23 @@ h1 {
   margin-bottom: 0px;
   color: #ffffff;
 }
+section div img {
+  width: 400px;
+  padding: 0px;
+  margin: 0px;
+}
 #city canal cruise {
   width: 300px;
-  font-style: italic;
+  font-style: merienda;
   font-size: 18px;
   padding: 5px;
   mirgin: 5px;
+  float: left;
 }
+#van_gogh {
+  float: inline-start;
+}
+
 .activities {
   width: 400px;
 }
