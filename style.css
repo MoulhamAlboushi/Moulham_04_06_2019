@@ -66,6 +66,9 @@ section div img {
   font-size: 18px;
   padding: 5px;
   mirgin: 5px;
+  border: 2px solid black;
+  border-radius: 20px 0px 20px 20px;
+  background-image: url(/img/a8.jpg);
   float: left;
 }
 #van_gogh {
@@ -75,5 +78,5 @@ section div img {
 .activities {
   width: 400px;
   padding: 5px;
-  margin: 5px;
+  margin: 0px;
 }
