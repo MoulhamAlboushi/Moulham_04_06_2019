@@ -61,9 +61,12 @@ h1 {
 #city_canal_cruise {
   mirgin: 5px;
   float: right;
+  /*
+  background-color: rgba(0, 0, 127, 0.5); */
 }
 #van_gogh {
   float: right;
+  /*background-color: rgba(0, rgba(0, 127, 0, 0.500); */
 }
 
 .activities {
@@ -73,6 +76,7 @@ h1 {
   padding: 5px;
   margin: 5px;
   text-align: justify;
+  background-color: coral;
 }
 
 #belevenis {
