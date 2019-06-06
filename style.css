@@ -80,13 +80,16 @@ header p {
   height: 500px;
   border: 1px solid black;
   padding: 5px;
-  margin: 0px 0px 5px 2px;
+  margin: 0px 2px 5px 0px;
   text-align: justify;
   background-color: coral;
 
   /*display: inline-block;*/
 }
-
+#moulham {
+  width: 249px;
+  padding: 4px;
+}
 #belevenis {
   float: right;
 }
