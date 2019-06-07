@@ -54,13 +54,13 @@ header p {
   border: 3px rgba(255, 255, 255, 0.354) solid;
   color: black;
   border-radius: 30px;
-  background-color: rgba(230, 115, 39, 0.299);
+  background-color: rgba(247, 65, 10, 0.5);
 }
 
 #h2_activities {
   margin: 1px 0px;
   padding: 2px;
-  color: white;
+  color: rgb(231, 31, 31);
   background-color: darkslategrey;
   border: px solid rgb(141, 15, 15);
 }
